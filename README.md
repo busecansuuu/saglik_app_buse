@@ -1,17 +1,8 @@
-# mobilprogramlama
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Screenshot 2023-03-21 221607](https://user-images.githubusercontent.com/103958071/226717281-7e8e1c56-f162-4df8-9235-6553a32c32e2.jpg)
+![Screenshot 2023-03-21 222147](https://user-images.githubusercontent.com/103958071/226718913-6a4e63d7-8242-4645-975b-f615bb69355c.jpg)
+![Screenshot 2023-03-21 221607](https://user-images.githubusercontent.com/103958071/226718931-1a68e1c0-b503-489e-af22-9636960bcdab.jpg)
+![Screenshot 2023-03-21 222215](https://user-images.githubusercontent.com/103958071/226718951-6fd6d1d2-7c88-4814-9c0e-e01265ec6a4c.jpg)
+![Screenshot 2023-03-21 221749](https://user-images.githubusercontent.com/103958071/226718967-b43a94ff-76e6-48be-bebc-c14418f06465.jpg)
+![Screenshot 2023-03-21 222233](https://user-images.githubusercontent.com/103958071/226718968-48f8e901-c534-4a8a-8f11-b1c653a6ec9f.jpg)
+![Screenshot 2023-03-21 221810](https://user-images.githubusercontent.com/103958071/226718976-07386258-f2bd-494b-b740-acc0360ec6d2.jpg)
+![Screenshot 2023-03-21 222247](https://user-images.githubusercontent.com/103958071/226718978-55bd1500-f918-4929-98c1-bdaa8a5b1225.jpg)
+![Screenshot 2023-03-21 222202](https://user-images.githubusercontent.com/103958071/226718990-27e7ebec-6210-4296-b03b-e12ea49b0eba.jpg)
